@@ -1,1 +1,12 @@
 node_modules
+vendor
+composer.lock
+package-lock.json
+public/build
+.gitignore
+.htaccess
+public/.htaccess
+temp
+storage
+includes/.env
+.gitlab-ci.yml file
